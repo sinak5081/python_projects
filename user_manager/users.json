@@ -1,0 +1,16 @@
+{
+    "karim": {
+        "username": "karim",
+        "password": "1234",
+        "is_verified": true,
+        "skills": [
+            "python",
+            "music"
+        ],
+        "profile": {
+            "name": "sina",
+            "age": 18,
+            "city": "isfahan"
+        }
+    }
+}
